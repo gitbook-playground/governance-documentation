@@ -19,7 +19,7 @@ Se han acuñado un total de `1 000 000 000 DYDX` y estarán disponibles durante 
 * **15,27 %** (`152 704 930 DYDX`) a los fundadores, empleados, asesores y consultores de dYdX Trading o la Fundación
 * **7,00 %** (`70 000 000 DYDX`) a los futuros empleados y consultores de dYdX Trading o dYdX Foundation
 
-![](<../.gitbook/assets/DYDX Allocations (Initial 5 Years).png>)
+![](../.gitbook/assets/dydx-allocations-initial-5-years.png)
 
 A partir de los cinco años posteriores al lanzamiento, una tasa de inflación máxima perpetua del `2 %` por año puede ser utilizada por la gobernanza para aumentar el suministro de DYDX, asegurando que la comunidad tenga los recursos para continuar el desarrollo y el crecimiento del Protocolo. La inflación debe ser promulgada por medio de una propuesta de la gobernanza y está limitada al `2 %` anual.
 
